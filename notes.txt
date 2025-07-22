@@ -1,1 +1,4 @@
 Il faut mettre a jour cette fonctionnalite.
+Nouvelles fonctionnalites ajoutees.
+
+Changelog generated
